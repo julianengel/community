@@ -88,5 +88,18 @@ flowchart TD
 - X: [@SinOfStrife](https://x.com/SinOfStrife)
 - Discord: @corvus_bane
 
+## Applying
 
+We accept staff applications by email. Send a short, human-written note to **shadow@openclaw.ai** with the details below.
 
+**Subject:** `Staff application – <your Discord handle>`
+
+**Include:**
+- **Experience:** moderation, community leadership, support, or ops experience (links welcome).
+- **Handles:** Discord, GitHub, X (Twitter), plus your best contact email.
+- **Availability:** timezone + typical hours/week.
+- **Preferred team(s):** which team(s) and why.
+- **Recommendation(s):** who can vouch for you, and how to contact them.
+- **Extras:** languages, prior OpenClaw involvement, or relevant projects.
+
+We’ll follow up if there’s a fit or we need more info.
