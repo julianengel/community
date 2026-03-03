@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Appeals
+    url: https://appeal.gg/clawd
+    about: Appeal a moderation action.
+  - name: Report a moderator
+    url: https://appeal.gg/clawd
+    about: Report a moderator.
