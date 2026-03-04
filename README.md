@@ -56,7 +56,7 @@ flowchart TD
 ### Configurator (administration)
 
 - Owns server configuration, permissions, and bot management.
-- Maintains automod, role config, and tooling (Barnacle/Audrey/Answer Overflow).
+- Maintains automod, role config, and tooling (Barnacle/Hermit/Audrey/Answer Overflow).
 - Coordinates with leads before changes that affect member experience.
 
 ### Admin Responsibilities

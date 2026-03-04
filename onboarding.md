@@ -26,7 +26,8 @@ Welcome! This checklist is for new mods and helpers.
 
 ## Tooling overview
 
-- **Barnacle**: all moderation actions (no native Discord moderation tools).
+- **Barnacle (Sapphire)**: all moderation actions (no native Discord moderation tools).
+- **Hermit**: custom commands (e.g., `/say` redirects).
 - **Audrey**: voice automod and `/report-vc` logging.
 - **Kiai**: message/voice tracking (used by leads and senior staff).
 - **Answer Overflow**: #help management and indexing.

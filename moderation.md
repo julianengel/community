@@ -37,8 +37,8 @@ When you accept or deny the appeal, the user will see the reason you put in, in 
 
 ## Working in Chat
 
-Barnacle has a set of `/say` commands to help with redirecting users in chat.
-You can find all of those here: [https://github.com/openclaw/barnacle/blob/main/src/commands/say.ts](https://github.com/openclaw/barnacle/blob/main/src/commands/say.ts)
+Hermit has a set of `/say` commands to help with redirecting users in chat.
+You can find all of those here: [https://github.com/openclaw/hermit/blob/main/src/commands/say.ts](https://github.com/openclaw/hermit/blob/main/src/commands/say.ts)
 
 Additionally, the Server Guide has a large amount of common questions about the Discord server itself. This can be found at the top of the channel list.
 

@@ -10,8 +10,8 @@ https://kiai.app
 Used for SEO and #help management
 https://answeroverflow.com
 
-## Barnacle (moderation)
-Whitelabel bot of https://sapph.xyz and https://appeal.gg, used for all moderation and appeals management
+## Barnacle
+Whitelabel bot of https://sapph.xyz and https://appeal.gg, used for all moderation and appeals management (Sapphire instance)
 
 ## Audrey
 Used for automod in voice channels, especially for soundboard spam and VC trolling, and the /report-vc command
@@ -26,8 +26,8 @@ Misc utility bot for the Configurator Team, managed solely through commands
 
 # Internal
 
-## Barnacle (commands)
-Custom bot - https://github.com/openclaw/barnacle
+## Hermit
+Custom bot - https://github.com/openclaw/hermit
 Hosted on https://exe.dev - Shadow's Account
 
 ## Clawdinator (all numbers)

@@ -1,6 +1,6 @@
 # Incident Playbook
 
-Use this as a quick-response guide. Always use Barnacle commands, not native Discord moderation tools.
+Use this as a quick-response guide. Always use Barnacle (Sapphire) moderation commands, not native Discord moderation tools.
 
 
 ## Common Moderation Cases
