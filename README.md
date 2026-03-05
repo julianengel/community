@@ -103,3 +103,4 @@ We accept staff applications by email. Send a short, human-written note to **sha
 - **Extras:** languages, prior OpenClaw involvement, or relevant projects.
 
 We’ll follow up (generally via Discord) if there’s a fit or we need more info.
+This policy will be updated soon with a more detailed onboarding flow.
