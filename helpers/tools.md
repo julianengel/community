@@ -19,9 +19,16 @@ Commands for managing help threads. These also fire a webhook for tracking.
 | Command | What it does |
 |---|---|
 | `/helper warn-new-thread` | Warns that the thread is too long and should be split. Asks Krill to summarize the conversation. Optionally mention a user. |
+| `/helper close` | Close and lock the current thread (shorthand). Only works inside a thread. |
 | `/helper close-thread` | Posts a close notice, then archives and locks the thread. Only works inside a thread. |
 
-Hermit also automatically posts a **welcome message** when a new thread is created in the help channel, reminding users to include details (goal, error, commands, environment, logs).
+Hermit also automatically posts a **welcome message** when a new thread is created in the help channel, reminding users to include details (goal, error, commands, environment, logs). See [welcome-message.md](welcome-message.md) for the full template.
+
+### `/github` — GitHub issue/PR lookup
+
+| Command | What it does |
+|---|---|
+| `/github number:<number>` | Fetches and displays a GitHub issue or pull request. Defaults to `openclaw/hermit`. Optionally specify `user:` and `repo:` for other repositories. |
 
 ## Answer Overflow
 
