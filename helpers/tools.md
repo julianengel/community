@@ -24,12 +24,6 @@ Commands for managing help threads. These also fire a webhook for tracking.
 
 Hermit also automatically posts a **welcome message** when a new thread is created in the help channel, reminding users to include details (goal, error, commands, environment, logs). See [welcome-message.md](welcome-message.md) for the full template.
 
-### `/github` — GitHub issue/PR lookup
-
-| Command | What it does |
-|---|---|
-| `/github number:<number>` | Fetches and displays a GitHub issue or pull request. Defaults to `openclaw/hermit`. Optionally specify `user:` and `repo:` for other repositories. |
-
 ## Answer Overflow
 
 Indexes **#help** threads for SEO so that common questions are discoverable via search engines. Managed at [answeroverflow.com](https://answeroverflow.com).
