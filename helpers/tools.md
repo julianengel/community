@@ -24,6 +24,16 @@ Commands for managing help threads. These also fire a webhook for tracking.
 
 Hermit also automatically posts a **welcome message** when a new thread is created in the help channel, reminding users to include details (goal, error, commands, environment, logs). See [welcome-message.md](welcome-message.md) for the full template.
 
+### `Solved (Mod)` - Moderator solution marker
+
+Use the Discord message context menu item `Solved (Mod)` when a moderator needs to mark a reply as the answer for a thread.
+
+Why use it:
+
+- it marks the solution in Answer Overflow
+- it logs the moderation action in Hermit's worker event pipeline
+- it keeps thread-resolution handling consistent with the rest of the helper tooling
+
 ## Answer Overflow
 
 Indexes **#help** threads for SEO so that common questions are discoverable via search engines. Managed at [answeroverflow.com](https://answeroverflow.com).

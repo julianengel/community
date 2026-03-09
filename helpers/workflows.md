@@ -35,6 +35,7 @@ If someone asks for help that is **not related to OpenClaw** (e.g., general prog
 
 ## Thread Hygiene
 
-- When a question is resolved, use the discord context menu to mark the message as answer. 
+- When a question is resolved and a moderator needs to mark the answer, use the `Solved (Mod)` message context menu item.
+- Do not rely on ad-hoc reactions or manual notes for this. `Solved (Mod)` updates Answer Overflow and records the action in Hermit's worker event flow.
 - One issue per thread — if a new issue arises, use `/helper warn-new-thread` to ask for a new thread.
 - Keep threads focused so that Answer Overflow can index them cleanly for others to find later.
